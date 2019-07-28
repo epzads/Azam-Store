@@ -76,6 +76,12 @@ import Payment from './Payment'
 
 
   componentDidMount(){
+
+   
+   
+
+
+
   fetch(
   'http://localhost:3000/search',{
   method: 'get',
